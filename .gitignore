@@ -1,0 +1,19 @@
+# Build output
+/board
+/dist/
+*.test
+*.out
+
+# Go
+/vendor/
+
+# Editor / OS
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Local runtime / stray board data in this repo
+*.sock
+*.log
+/.board.md
