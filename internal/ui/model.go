@@ -15,8 +15,8 @@ import (
 	tea "charm.land/bubbletea/v2"
 	"charm.land/lipgloss/v2"
 
-	"github.com/joey/board/internal/board"
-	"github.com/joey/board/internal/theme"
+	"github.com/The-Coding-Trader/board/internal/board"
+	"github.com/The-Coding-Trader/board/internal/theme"
 )
 
 // mode is the current input context: navigating the board, typing a new/edited

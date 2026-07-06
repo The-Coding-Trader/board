@@ -10,7 +10,7 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 
-	"github.com/joey/board/internal/board"
+	"github.com/The-Coding-Trader/board/internal/board"
 )
 
 // --- test helpers ---

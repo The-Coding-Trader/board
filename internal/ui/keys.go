@@ -5,7 +5,7 @@ import (
 
 	tea "charm.land/bubbletea/v2"
 
-	"github.com/joey/board/internal/board"
+	"github.com/The-Coding-Trader/board/internal/board"
 )
 
 // handleKey routes a key press based on the current mode. In the input modes the

@@ -7,8 +7,8 @@ import (
 
 	"charm.land/lipgloss/v2"
 
-	"github.com/joey/board/internal/board"
-	"github.com/joey/board/internal/theme"
+	"github.com/The-Coding-Trader/board/internal/board"
+	"github.com/The-Coding-Trader/board/internal/theme"
 )
 
 var (
