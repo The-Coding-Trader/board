@@ -1,4 +1,4 @@
-module github.com/joey/board
+module github.com/The-Coding-Trader/board
 
 go 1.26.4
 
