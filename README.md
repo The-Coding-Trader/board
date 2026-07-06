@@ -117,3 +117,7 @@ Built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) v2,
 make test    # store round-trip/idempotency tests + headless model-update tests
 make vet
 ```
+
+## License
+
+[MIT](LICENSE) © Joey Beninghove
